@@ -1,3 +1,3 @@
-# My Awesome Book
+# GitHub Flowの本
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+この本はGitやGitHubにそこまで詳しくないけどGitHub Flowを使った開発に参加することになった人に、開発の流れを解説するための本です。
