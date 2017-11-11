@@ -1,7 +1,7 @@
 # Summary
 
-* [はじめに](README.md)
+* [GitHub Flowの本](README.md)
 * [1章 Git・GitHubの概要](chapter1.md)
-* [GitHub Flow](github-flow.md)
-* [手順](shou-shun.md)
+* [2章 GitHub Flowの概要](chapter2.md)
+* [3章 GitHub Flowの手順](chapter3.md)
 
