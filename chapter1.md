@@ -24,14 +24,14 @@ GitはLinuxカーネルの開発のために2005年から開発されており�
 
 Gitにはブランチという機能があります。
 
-## Gitのディレクトリ構成
+## 1.3. Gitのディレクトリ構成
 
 * `.git`ディレクトリには過去のバージョンを含め、履歴データが格納されています。
 * `.git`ディレクトリ以外の箇所はワークスペースと呼ばれ、
 
-## GitHubとは
+## 1.4. GitHubとは
 
-## 用語の説明
+## 1.5. 用語の説明
 
 **Git**: 上記で説明したとおり、バージョン管理ツールです。
 
@@ -39,7 +39,7 @@ Gitにはブランチという機能があります。
 
 **GitHub for Desktop**: GitHub社が開発したGitのクライアントです。
 
-## 本章の参考文献
+## 1.6. 本章の参考文献
 
 * [Git - A Short History of Git](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)
 * 
