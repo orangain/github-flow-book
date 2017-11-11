@@ -1,4 +1,4 @@
-# 1章 Git・GitHubの概要
+# 第1章 Git・GitHubの概要
 
 本章ではGitとGitHubの概要を解説します。
 

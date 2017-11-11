@@ -1,4 +1,4 @@
-# 3章 GitHub Flowの手順
+# 第3章 GitHub Flowの手順
 
 ## 1. クローンする
 

@@ -1,4 +1,4 @@
-# 2章 GitHub Flowの概要
+# 第2章 GitHub Flowの概要
 
 本章ではGitHub Flowの概要を解説します。
 
