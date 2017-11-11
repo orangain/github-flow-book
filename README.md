@@ -8,9 +8,9 @@
 
 **[第1章](chapter1.md)**ではGitとGitHubの概要を解説します。既にご存知の場合は飛ばして構いません。
 
-**[第2章](chapter2.md)**では本書で解説するGitHub Flowの概要を解説します。
+**[第2章](chapter2.md)**では本書のテーマであるGitHub Flowの概要を解説します。
 
-**[第3章](chapter3.md)**ではGitHub Flowの具体的な手順を解説します。
+**[第3章](chapter3.md)**ではGitHub Flowを使った開発の具体的な手順を解説します。
 
 ## お断り
 
