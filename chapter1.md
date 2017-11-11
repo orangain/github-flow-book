@@ -1,3 +1,39 @@
-# First Chapter
+# Git、GitHubの概要
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+本章ではGitとGitHubの概要を解説します。
+
+## Gitとは
+
+Gitはソースコードのバージョン管理ツールです。特定の時点のソースコードを「コミット」して履歴を記録しておくことで、複数人で開発を行う際にソースコードの先祖返りを防いだり、過去の特定のバージョンに戻したりできます。
+
+GitはLinuxカーネルの開発のために2005年から開発されており、近年では最もよく使われるバージョン管理ツールと言えるでしょう。
+
+## Gitの特徴
+
+### 分散バージョン管理
+
+ローカルとサーバーは分離されており、コミットしたデータはまずローカルリポジトリに保存され、
+
+### 軽量なブランチ
+
+Gitにはブランチという機能があります。
+
+## Gitの構成
+
+* `.git`ディレクトリには過去のバージョンを含め、履歴データが格納されています。
+* `.git`ディレクトリ以外の箇所はワークスペースと呼ばれ、
+
+## GitHubとは
+
+## 用語の説明
+
+Git: 上記で説明したとおり、バージョン管理ツールです。
+
+GitHub: GitHub社が運営するGitリポジトリのサービスです。
+
+GitHub for Desktop: GitHub社が開発したGitのクライアントです。
+
+## 本章の参考文献
+
+* [Git - A Short History of Git](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)
+* 
