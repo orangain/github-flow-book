@@ -4,6 +4,8 @@
 
 本書はGitやGitHubにそこまで詳しくない人が[GitHub Flow](https://guides.github.com/introduction/flow/)を使った開発に参加できるよう、GitHub Flowの概要や手順を学ぶことを目的としています。
 
+GitHub Flowの解説に最低限必要なGitやGitHubの概要は解説しますが、それらの使い方を細かく解説することは目的としていません。
+
 ## 本書の構成
 
 **[第1章](chapter1.md)**ではGitHub Flowの前提となるGitとGitHubの概要を解説します。既にご存知の場合は飛ばして構いません。
